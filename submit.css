@@ -1,0 +1,28 @@
+.Sparkle {
+
+	font-size:100px;
+	font-family:impact;
+  text-align: center;
+  margin-top: 70px;
+
+ -webkit-text-fill-color: transparent;
+ background: -webkit-linear-gradient(transparent, transparent),
+             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+}
+
+/* Style the submit button with a specific background color etc */
+button {
+    background-color: lightblue;
+    color: white;
+    padding: 12px 20px;
+    margin-top: auto;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
