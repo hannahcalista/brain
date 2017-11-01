@@ -3827,5 +3827,3 @@ var Popover = function ($) {
   return Popover;
 }(jQuery);
 
-
-})();
