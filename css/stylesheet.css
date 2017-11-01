@@ -1,0 +1,24 @@
+
+h3 {
+    font-size: 70px;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    }
+p {
+      font-size: 60px;
+      font-family: sans-serif;
+      text-align: center;
+      color: white;
+        }
+.home-page {
+     background-color:pink;
+   }
+.carousel-item {
+  height: 650px;
+  width: 1200px;
+}
+/*black;
+background-color: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+background-color: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+background-color: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));*/
