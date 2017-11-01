@@ -1,0 +1,33 @@
+header {
+     text-align: center;
+     background: url('http://roguehealthandfitness.com/wp-content/uploads/2014/10/Healthy-mind-in-a-healthy-body.jpg');
+     background-size: cover;
+     color: white;
+   }
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  margin: 320px 320px 320px 320px;
+  text-align: center;
+  color: white;
+  background: black;
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+}
+ul {
+     padding: 10px;
+     background: black;
+   }
+li {
+     display: inline;
+     padding: 0px 10px 0px 10px;
+   }
+a {
+      color: white;
+      font-family: sans-serif;
+      font-size: 30px;
+    }
+body {
+     background-color: black;
+   }
